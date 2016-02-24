@@ -1,0 +1,13 @@
+{
+  "name": "sesiones-php",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
