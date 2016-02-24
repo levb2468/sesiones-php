@@ -31,14 +31,14 @@
 				<td>Pelota</td>
 				<td>60.00</td>
 				<td>5</td>
-				<td><a href="listado.php?id=1">AGREGAR</a></td>
+				<td><a href="listado.php?id=2">AGREGAR</a></td>
 			</tr>
 			<tr>
 				<td>3</td>
 				<td>Polo</td>
 				<td>80.00</td>
 				<td>10</td>
-				<td><a href="listado.php?id=1">AGREGAR</a></td>
+				<td><a href="listado.php?id=2">AGREGAR</a></td>
 			</tr>
 		</tbody>
 	</table>
